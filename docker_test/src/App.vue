@@ -1,3 +1,11 @@
+<!--
+ * @Author: xujialei01 jialei@tataufo.com
+ * @Date: 2023-02-07 15:51:14
+ * @LastEditors: xujialei01 jialei@tataufo.com
+ * @LastEditTime: 2023-02-10 15:26:19
+ * @FilePath: /project/docker-test/docker_test/src/App.vue
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
@@ -6,7 +14,7 @@ import TheWelcome from './components/TheWelcome.vue'
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
+    ccccc
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
     </div>
